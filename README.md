@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Juraj 👋
+I’m a full-stack web developer, occasional opinion maker and maybe once public speaker. I'm the CEO of a small tech company IDnetwork s.r.o with quite unique service https://do-lead.eu/ for lead generation. I currently work as a Senior Web Developer at TietoEVRY.
+
+<img src="https://www.idnetwork.cz/content/Images/fingerprint.png" width="80" alt="fingerprint" align="right">
+
+- 🌱 I’m currently learning Spanish
+- 👯 I’m looking to collaborate on PWA project
+- 💬 Ask me about Web Development (SPA, Angular, PWA)
+
 
 <!--
 **jurusix/jurusix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
